@@ -1,0 +1,20 @@
+{
+  "name": "cicdexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhindev/cicdexample.git"
+  },
+  "author": "Nidhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhindev/cicdexample/issues"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/nidhindev/cicdexample#readme"
+}
